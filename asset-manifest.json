@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/air-first-demo/static/css/main.fc6a1029.chunk.css",
+    "main.js": "/air-first-demo/static/js/main.91f7aefa.chunk.js",
+    "main.js.map": "/air-first-demo/static/js/main.91f7aefa.chunk.js.map",
+    "runtime-main.js": "/air-first-demo/static/js/runtime-main.eb76dec2.js",
+    "runtime-main.js.map": "/air-first-demo/static/js/runtime-main.eb76dec2.js.map",
+    "static/css/2.9edc93b8.chunk.css": "/air-first-demo/static/css/2.9edc93b8.chunk.css",
+    "static/js/2.1ab93553.chunk.js": "/air-first-demo/static/js/2.1ab93553.chunk.js",
+    "static/js/2.1ab93553.chunk.js.map": "/air-first-demo/static/js/2.1ab93553.chunk.js.map",
+    "index.html": "/air-first-demo/index.html",
+    "precache-manifest.9f5267ff8b2745e8ebc82a5340a69e2a.js": "/air-first-demo/precache-manifest.9f5267ff8b2745e8ebc82a5340a69e2a.js",
+    "service-worker.js": "/air-first-demo/service-worker.js",
+    "static/css/2.9edc93b8.chunk.css.map": "/air-first-demo/static/css/2.9edc93b8.chunk.css.map",
+    "static/css/main.fc6a1029.chunk.css.map": "/air-first-demo/static/css/main.fc6a1029.chunk.css.map",
+    "static/js/2.1ab93553.chunk.js.LICENSE.txt": "/air-first-demo/static/js/2.1ab93553.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb76dec2.js",
+    "static/css/2.9edc93b8.chunk.css",
+    "static/js/2.1ab93553.chunk.js",
+    "static/css/main.fc6a1029.chunk.css",
+    "static/js/main.91f7aefa.chunk.js"
+  ]
+}
