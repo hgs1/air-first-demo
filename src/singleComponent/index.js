@@ -13,6 +13,7 @@ export default ({ initCount = 0 }) => {
 
   return (
     <div>
+      <h1>单组件版</h1>
       <p className="input">
         输入：
         <Input type="number" className="margin-r10" value={num} onChange={e => setNum(e.target.value)} />
